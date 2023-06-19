@@ -1,6 +1,6 @@
 ### Back-End Developer
 
-[블로그](https://velog.io/@greyhan7)
+[블로그](https://greyhan7.tistory.com/)
 
 <div align=left><h1>📚 STACKS</h1></div>
 
