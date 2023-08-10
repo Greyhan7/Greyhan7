@@ -1,6 +1,6 @@
 ### Back-End Developer
 
-[블로그](https://greyhan7.tistory.com/)
+기록은 Obsidian으로 함.
 
 <div align=left><h1>📚 STACKS</h1></div>
 
