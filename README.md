@@ -2,7 +2,6 @@
 
 기록은 Obsidian으로 함.
 
-근데 솔직히 내가 하는 일이 개발인진 모르겠음.
 
 <div align=left><h1>📚 STACKS</h1></div>
 
